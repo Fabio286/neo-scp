@@ -1,0 +1,25 @@
+{
+  "name": "neo-scp",
+  "version": "0.1.0",
+  "description": "A pure JS real scp module based on ssh2 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabio286/neo-scp.git"
+  },
+  "keywords": [
+    "scp",
+    "ssh2",
+    "secure",
+    "copy"
+  ],
+  "author": "Fabio Di Stasio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fabio286/neo-scp/issues"
+  },
+  "homepage": "https://github.com/Fabio286/neo-scp#readme"
+}

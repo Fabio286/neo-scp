@@ -71,7 +71,8 @@ The callback returns as result the size in bytes.
 
 ### .getFile()
 
-Coming soon.
+Gets a file from remote host.
+You must pass the `remoteFile` path, the `localFile` destination path and a callback function.
 
 ## Debug
 

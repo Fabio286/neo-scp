@@ -25,4 +25,10 @@ conn.on('ready', () => {
          console.log('Damaged remote file');
       }
    });
+
+   Scp.getFile(remoteFile, localFile, err => {
+      if (err) throw err;
+
+      console.log('Download successfully');
+   });
 });

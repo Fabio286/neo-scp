@@ -1,6 +1,6 @@
 {
   "name": "neo-scp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A pure JS real scp module based on ssh2 module",
   "main": "index.js",
   "scripts": {

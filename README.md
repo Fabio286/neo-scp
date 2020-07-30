@@ -1,5 +1,7 @@
 # Neo SCP
 
+![npm](https://img.shields.io/npm/v/neo-scp) ![npm](https://img.shields.io/npm/dt/neo-scp) ![GitHub](https://img.shields.io/github/license/fabio286/neo-scp)
+
 Neo SCP is a lightweight **real SCP** module based on [ssh2](https://github.com/mscdex/ssh2) module.  
 This module is inspired by [scp1](https://github.com/pghalliday/scp1).
 
